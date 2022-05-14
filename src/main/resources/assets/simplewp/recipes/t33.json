@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYZ"
+  ],
+  "key": {
+    "X": {
+      "item": "simplewp:pipe"
+    },
+    "Y": {
+      "item": "simplewp:trigger_key"
+    },
+    "Z": {
+      "item": "simplewp:butt"
+    }
+  },
+  "result": {
+    "item": "flansmod:tt33",
+    "count": 1
+  }
+}
