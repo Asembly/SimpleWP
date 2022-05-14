@@ -2,7 +2,6 @@ package simplewp;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemStack;
-import simplewp.items.Pipe;
 import simplewp.regItem.RegistrationItem;
 
 public class CreativeTabWP extends CreativeTabs {

@@ -1,25 +1,22 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "XYZ",
-    " H "
+    "XY",
+    " H"
   ],
   "key": {
     "X": {
       "item": "simplewp:pipe"
     },
     "Y": {
-      "item": "simplewp:gate"
-    },
-    "Z": {
-      "item": "simplewp:butt"
+      "item": "simplewp:roll"
     },
     "H": {
-      "item": "simplewp:trigger_key"
+      "item": "simplewp:butt_pistol"
     }
   },
   "result": {
-    "item": "flansmod:tt33",
+    "item": "flansmod:webley",
     "count": 1
   }
 }

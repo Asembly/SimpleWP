@@ -2,7 +2,7 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "XYZ",
-    " H "
+    " HT"
   ],
   "key": {
     "X": {
@@ -12,14 +12,17 @@
       "item": "simplewp:gate"
     },
     "Z": {
-      "item": "simplewp:butt"
+      "item": "simplewp:butt_sniper"
     },
     "H": {
       "item": "simplewp:trigger_key"
+    },
+    "T": {
+      "item": "simplewp:butt_pistol"
     }
   },
   "result": {
-    "item": "flansmod:tt33",
+    "item": "flansmod:trenchgun",
     "count": 1
   }
 }
