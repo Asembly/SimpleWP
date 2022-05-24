@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "simplewp:items/butt_pistol"
+    "layer0": "simplewp:items/item_gate_2"
   }
 }
