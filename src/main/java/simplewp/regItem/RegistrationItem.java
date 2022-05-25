@@ -24,6 +24,7 @@ public class RegistrationItem {
     public static final Item BUTT1 = new ItemButt1().setRegistryName("butt_1").setUnlocalizedName("butt_1");
     public static final Item BUTT2 = new ItemButt2().setRegistryName("butt_2").setUnlocalizedName("butt_2");
     public static final Item BUTT3 = new ItemButt3().setRegistryName("butt_3").setUnlocalizedName("butt_3");
+    public static final Item BUTT4 = new ItemButt4().setRegistryName("butt_4").setUnlocalizedName("butt_4");
 
     public static final Item GATE1 = new ItemGate1().setRegistryName("gate_1").setUnlocalizedName("gate_1");
     public static final Item GATE2 = new ItemGate2().setRegistryName("gate_2").setUnlocalizedName("gate_2");
@@ -38,6 +39,7 @@ public class RegistrationItem {
     public static final Item GRIP9 = new ItemGrip9().setRegistryName("grip_9").setUnlocalizedName("grip_9");
     public static final Item GRIP10 = new ItemGrip10().setRegistryName("grip_10").setUnlocalizedName("grip_10");
     public static final Item GRIP11 = new ItemGrip11().setRegistryName("grip_11").setUnlocalizedName("grip_11");
+    public static final Item GRIP12 = new ItemGrip12().setRegistryName("grip_12").setUnlocalizedName("grip_12");
     public static final Item TRIGGER_KEY = new ItemTriggerKey().setRegistryName("trigger_key").setUnlocalizedName("trigger_key");
     public static final Item ARMOR_PACK = new Item().setRegistryName("armor_pack");
 
@@ -55,6 +57,7 @@ public class RegistrationItem {
         event.getRegistry().register(GRIP9);
         event.getRegistry().register(GRIP10);
         event.getRegistry().register(GRIP11);
+        event.getRegistry().register(GRIP12);
 
         event.getRegistry().register(GATE1);
         event.getRegistry().register(GATE2);
@@ -62,6 +65,7 @@ public class RegistrationItem {
         event.getRegistry().register(BUTT1);
         event.getRegistry().register(BUTT2);
         event.getRegistry().register(BUTT3);
+        event.getRegistry().register(BUTT4);
 
         event.getRegistry().register(TRIGGER_KEY);
 
@@ -92,6 +96,7 @@ public class RegistrationItem {
         registryModel(GRIP9);
         registryModel(GRIP10);
         registryModel(GRIP11);
+        registryModel(GRIP12);
 
         registryModel(GATE1);
         registryModel(GATE2);
@@ -99,6 +104,7 @@ public class RegistrationItem {
         registryModel(BUTT1);
         registryModel(BUTT2);
         registryModel(BUTT3);
+        registryModel(BUTT4);
 
         registryModel(TRIGGER_KEY);
 

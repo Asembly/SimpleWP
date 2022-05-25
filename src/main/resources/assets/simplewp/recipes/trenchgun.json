@@ -1,24 +1,24 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "XYZ",
-    " HT"
+    "ABC",
+    " DE"
   ],
   "key": {
-    "X": {
+    "A": {
       "item": "simplewp:pipe"
     },
-    "Y": {
-      "item": "simplewp:gate"
+    "B": {
+      "item": "simplewp:gate_2"
     },
-    "Z": {
-      "item": "simplewp:butt_sniper"
+    "C": {
+      "item": "simplewp:gate_1"
     },
-    "H": {
+    "D": {
       "item": "simplewp:trigger_key"
     },
-    "T": {
-      "item": "simplewp:butt_pistol"
+    "E": {
+      "item": "simplewp:grip_6"
     }
   },
   "result": {

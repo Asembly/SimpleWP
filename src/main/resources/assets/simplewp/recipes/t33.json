@@ -1,21 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "XYZ",
-    " H "
+    "AB",
+    "CD"
   ],
   "key": {
-    "X": {
+    "A": {
       "item": "simplewp:pipe"
     },
-    "Y": {
-      "item": "simplewp:gate"
+    "B": {
+      "item": "simplewp:gate_1"
     },
-    "Z": {
-      "item": "simplewp:butt"
-    },
-    "H": {
+    "C": {
       "item": "simplewp:trigger_key"
+    },
+    "D": {
+      "item": "simplewp:grip_6"
     }
   },
   "result": {

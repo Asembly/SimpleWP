@@ -9,20 +9,20 @@
       "item": "simplewp:pipe"
     },
     "B": {
-      "item": "simplewp:roll"
+      "item": "simplewp:gate_1"
     },
     "C": {
-      "item": "simplewp:gate_1"
+      "item": "simplewp:plate"
     },
     "D": {
       "item": "simplewp:trigger_key"
     },
     "E": {
-      "item": "simplewp:grip_11"
+      "item": "simplewp:grip_3"
     }
   },
   "result": {
-    "item": "flansmod:luger",
+    "item": "flansmod:sten",
     "count": 1
   }
 }

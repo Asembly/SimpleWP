@@ -1,28 +1,25 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "ABC",
-    " DE"
+    "AB",
+    "CD"
   ],
   "key": {
     "A": {
       "item": "simplewp:pipe"
     },
     "B": {
-      "item": "simplewp:roll"
-    },
-    "C": {
       "item": "simplewp:gate_1"
     },
-    "D": {
+    "C": {
       "item": "simplewp:trigger_key"
     },
-    "E": {
+    "D": {
       "item": "simplewp:grip_11"
     }
   },
   "result": {
-    "item": "flansmod:luger",
+    "item": "flansmod:webley",
     "count": 1
   }
 }

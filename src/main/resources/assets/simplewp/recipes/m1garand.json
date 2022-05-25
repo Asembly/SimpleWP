@@ -9,7 +9,7 @@
       "item": "simplewp:pipe"
     },
     "B": {
-      "item": "simplewp:roll"
+      "item": "simplewp:pipe"
     },
     "C": {
       "item": "simplewp:gate_1"
@@ -18,11 +18,11 @@
       "item": "simplewp:trigger_key"
     },
     "E": {
-      "item": "simplewp:grip_11"
+      "item": "simplewp:butt_2"
     }
   },
   "result": {
-    "item": "flansmod:luger",
+    "item": "flansmod:m1garand",
     "count": 1
   }
 }
